@@ -1,0 +1,15 @@
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\Petal.baml
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\Petal.g.cs
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\App.g.cs
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou_MarkupCompile.cache
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\bin\Debug\JustForYou.exe.config
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\bin\Debug\JustForYou.exe
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\bin\Debug\JustForYou.pdb
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\MainWindow.baml
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.g.resources
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.Properties.Resources.resources
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.csproj.GenerateResource.cache
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.exe
+C:\Users\Administrator.USER-20190220EP\Desktop\JustForYou\JustForYou\obj\Debug\JustForYou.pdb
